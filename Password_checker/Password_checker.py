@@ -114,3 +114,5 @@ if __name__ == '__main__':
         print(' -', s)
 
     print('\nGenerate strong password example:', generate_strong_password())
+    # End of Password_checker.py
+    
